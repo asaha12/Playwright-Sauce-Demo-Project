@@ -52,7 +52,8 @@ npx playwright show-report
 This report contains detailed test execution logs, including screenshots and video recordings in case of failures.
 
 ### Sample Report Screenshot
-![image](https://github.com/user-attachments/assets/c09d3650-3a6e-4458-b7b4-8bf77b9711c7)
+![image]![image](https://github.com/user-attachments/assets/c171ca36-bb2c-4963-8ed9-bbd52ceddb0a)
+
 
 
 ## Playwright Configuration
